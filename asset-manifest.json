@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "https://donate.error.vn/static/css/main.79a33aac.chunk.css",
-    "main.js": "https://donate.error.vn/static/js/main.593a2c00.chunk.js",
-    "runtime-main.js": "https://donate.error.vn/static/js/runtime-main.03264316.js",
-    "static/js/2.7afe1bb7.chunk.js": "https://donate.error.vn/static/js/2.7afe1bb7.chunk.js",
-    "index.html": "https://donate.error.vn/index.html",
-    "precache-manifest.85fb6098a66e945642e01380e4d91cec.js": "https://donate.error.vn/precache-manifest.85fb6098a66e945642e01380e4d91cec.js",
-    "service-worker.js": "https://donate.error.vn/service-worker.js",
-    "static/js/2.7afe1bb7.chunk.js.LICENSE.txt": "https://donate.error.vn/static/js/2.7afe1bb7.chunk.js.LICENSE.txt",
-    "static/media/question.svg": "https://donate.error.vn/static/media/question.0e7c6d43.svg"
+    "main.css": "https://bitgeeks.github.io/static/css/main.79a33aac.chunk.css",
+    "main.js": "https://bitgeeks.github.io/static/js/main.f7284847.chunk.js",
+    "runtime-main.js": "https://bitgeeks.github.io/static/js/runtime-main.3a988923.js",
+    "static/js/2.7afe1bb7.chunk.js": "https://bitgeeks.github.io/static/js/2.7afe1bb7.chunk.js",
+    "index.html": "https://bitgeeks.github.io/index.html",
+    "precache-manifest.dc1db063f0823791a879ae7689eb0b06.js": "https://bitgeeks.github.io/precache-manifest.dc1db063f0823791a879ae7689eb0b06.js",
+    "service-worker.js": "https://bitgeeks.github.io/service-worker.js",
+    "static/js/2.7afe1bb7.chunk.js.LICENSE.txt": "https://bitgeeks.github.io/static/js/2.7afe1bb7.chunk.js.LICENSE.txt",
+    "static/media/question.svg": "https://bitgeeks.github.io/static/media/question.0e7c6d43.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.03264316.js",
+    "static/js/runtime-main.3a988923.js",
     "static/js/2.7afe1bb7.chunk.js",
     "static/css/main.79a33aac.chunk.css",
-    "static/js/main.593a2c00.chunk.js"
+    "static/js/main.f7284847.chunk.js"
   ]
 }
