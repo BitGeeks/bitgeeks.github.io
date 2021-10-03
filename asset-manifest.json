@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "https://donate.error.vn/static/css/main.79a33aac.chunk.css",
+    "main.js": "https://donate.error.vn/static/js/main.593a2c00.chunk.js",
+    "runtime-main.js": "https://donate.error.vn/static/js/runtime-main.03264316.js",
+    "static/js/2.7afe1bb7.chunk.js": "https://donate.error.vn/static/js/2.7afe1bb7.chunk.js",
+    "index.html": "https://donate.error.vn/index.html",
+    "precache-manifest.85fb6098a66e945642e01380e4d91cec.js": "https://donate.error.vn/precache-manifest.85fb6098a66e945642e01380e4d91cec.js",
+    "service-worker.js": "https://donate.error.vn/service-worker.js",
+    "static/js/2.7afe1bb7.chunk.js.LICENSE.txt": "https://donate.error.vn/static/js/2.7afe1bb7.chunk.js.LICENSE.txt",
+    "static/media/question.svg": "https://donate.error.vn/static/media/question.0e7c6d43.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03264316.js",
+    "static/js/2.7afe1bb7.chunk.js",
+    "static/css/main.79a33aac.chunk.css",
+    "static/js/main.593a2c00.chunk.js"
+  ]
+}
